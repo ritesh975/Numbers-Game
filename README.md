@@ -1,2 +1,2 @@
 # Numbers-Game
-HTML || CSS
+HTML || JavaScript 
